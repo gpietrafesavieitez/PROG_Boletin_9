@@ -1,5 +1,4 @@
 package boletin_9_3;
-
 import java.util.Scanner;
 
 public class Boletin_9_3{
