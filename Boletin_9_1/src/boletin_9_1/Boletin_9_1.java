@@ -6,7 +6,7 @@ public class Boletin_9_1{
     
     public static void main(String[] args){
         boolean esc;
-        int sumNegativos,sumPositivos,sumCeros;
+        byte sumNegativos,sumPositivos,sumCeros;
         sumNegativos = sumPositivos = sumCeros = 0;
         for(byte i=0; i<10; i++){
             do{
